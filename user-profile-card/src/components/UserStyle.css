@@ -1,0 +1,30 @@
+.primary{
+   text-align :left;
+   padding-left:20px;
+}
+.heading{
+    text-align: center;
+}
+.userDetails{
+    justify-content: center;
+}
+.userimg{
+    width:100px;
+}
+.user-text{
+    font-weight: bold;
+}
+
+.user-details-row{
+    display: grid;
+    margin:0 auto;
+    grid-template-columns: 120px 205px;
+    text-align :left
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 25%;
+    padding: 15px;
+    margin:0 auto;
+  }
